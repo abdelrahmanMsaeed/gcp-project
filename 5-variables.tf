@@ -32,8 +32,3 @@ variable "vm_type" {
     type = string
 }
 
-
-
-variable "service_account_vm" {
-    type = string
-}   
