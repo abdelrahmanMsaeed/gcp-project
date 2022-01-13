@@ -52,7 +52,8 @@ provisioning  gke infrastructure with terraform on GCP.
 
 - provide your deployment.yaml the full path of the Image.
 
-    [Image](https://user-images.githubusercontent.com/97610820/149394500-428e22d5-bd5b-465c-871f-88f386bd1dc3.png)
+    ![Screenshot from 2022-01-13 20-28-38](https://user-images.githubusercontent.com/97610820/149394500-428e22d5-bd5b-465c-871f-88f386bd1dc3.png)
+
     
 - now upload deployment.yaml then run 
 
